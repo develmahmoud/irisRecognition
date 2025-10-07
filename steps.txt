@@ -1,0 +1,5 @@
+Step 2: Scales features & applies KMeans clustering.
+
+Step 3: Builds & trains an ANN (you control epochs & test size in sidebar).
+
+Step 4: Lets you input new iris measurements and get predictions.
