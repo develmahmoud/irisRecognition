@@ -17,7 +17,12 @@ from tensorflow.keras.layers import Dense
 st.set_page_config(page_title="Iris Recognition: ANN vs KMeans", layout="wide")
 st.title("🌸 Iris Recognition using ANN & KMeans Clustering")
 st.write(
-    "This app demonstrates **Iris dataset classification with ANN** and **unsupervised clustering with KMeans** side by side.")
+    "Note: This app is a final year project developed under the supervision of Mal Ibrahim Madigawa at the"
+    " **Department of Software Engineering, Federal University Dutse.** By "
+    "**Auwal Usman Muhammad with Registration number FCP/CSE/18/1024** side by side. ")
+st.write(
+    "This app demonstrates **Iris dataset classification with ANN** and "
+    "**unsupervised clustering with KMeans** side by side. ")
 
 # -----------------------------
 # Load Dataset
