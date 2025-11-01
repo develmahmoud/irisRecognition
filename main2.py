@@ -19,7 +19,7 @@ st.title("🌸 Iris Recognition using ANN & KMeans Clustering")
 st.write(
     "Note: This app is a final year project developed under the supervision of Mal Ibrahim Madigawa at the"
     " **Department of Software Engineering, Federal University Dutse.** By "
-    "**Auwal Usman Muhammad with Registration number FCP/CSE/18/1024** side by side. ")
+    "**Auwal Usman Muhammad with Registration number FCP/CSE/18/1024**")
 st.write(
     "This app demonstrates **Iris dataset classification with ANN** and "
     "**unsupervised clustering with KMeans** side by side. ")
